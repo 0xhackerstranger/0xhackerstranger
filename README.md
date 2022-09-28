@@ -1,3 +1,7 @@
+<div align="center"> 
+  <img src="giphy.gif" alt="profile_gif" />
+</div>
+
 ```json
 {
   "Context": "Welcome to my GitHub Profile",
