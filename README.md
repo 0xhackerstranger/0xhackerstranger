@@ -36,6 +36,7 @@
     },
     "Website": {
       "Handshake": "bystranger.hns.to"
+      "StackOverFlow": "https://stackoverflow.com/users/8638278/stranger"
     }
   }
 }
