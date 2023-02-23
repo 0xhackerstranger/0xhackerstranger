@@ -25,14 +25,14 @@
     "Crypto"
   ],
   "Technical_Background": [
-    "Classified"
+    "CLASSIFIED"
   ],
   "Currently_learning": [
-    "Classified"
+    "CLASSIFIED"
   ],
   "Connect_with_me": {
     "Social_Media": {
-      "Instagram": "instagram.com/zhi_haoo"
+      "Instagram": "ClASSIFIED"
     },
     "Website": {
       "Handshake": "bystranger.hns.to"
